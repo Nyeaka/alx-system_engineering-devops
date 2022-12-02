@@ -1,3 +1,11 @@
-n/bash
-ZZ
+u Betty
+
+ch
+mod u+x 0-iam_betty
+git add .
+
+git commit -m "my name is betty"
+git push
+
+E
 
