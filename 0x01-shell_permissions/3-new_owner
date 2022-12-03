@@ -1,2 +1,2 @@
 #!/bin/bash
-chowx betty helloo
+sudo chown betty hello
